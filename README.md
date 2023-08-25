@@ -1,7 +1,7 @@
 
 # SPECS | jaguar xe 2.0 turbocharged r sport 2018
 
-CONHEÇA O VEICULO  [CLIQUE AQUI]([https://github.com/Marcosribeiroti/catalogo-flexbox/blob/main/index.pdf](https://solucoesintegradas.com.br/)).
+CONHEÇA O VEICULO  [CLIQUE AQUI](https://solucoesintegradas.com.br/)
 
 ## 📚 | specs
 - [ultimatespecs](https://www.ultimatespecs.com/car-specs/Jaguar/70244/Jaguar-XE-20-Diesel-180HP-R-Sport.html)
